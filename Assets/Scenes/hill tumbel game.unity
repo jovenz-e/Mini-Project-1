@@ -130,6 +130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2903412274254696775, guid: 4df43c2b782504d6fa5a330931631c01, type: 3}
+      propertyPath: rotationSpeed
+      value: 3.4028235e+38
+      objectReference: {fileID: 0}
     - target: {fileID: 3414851754458459837, guid: 4df43c2b782504d6fa5a330931631c01, type: 3}
       propertyPath: m_Height
       value: 1.9669453
@@ -168,11 +172,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4636931512865675318, guid: 4df43c2b782504d6fa5a330931631c01, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4636931512865675318, guid: 4df43c2b782504d6fa5a330931631c01, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -27.7
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 4636931512865675318, guid: 4df43c2b782504d6fa5a330931631c01, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2054,7 +2058,7 @@ Transform:
   m_GameObject: {fileID: 1892964474}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.7, y: -32.6, z: 165.2}
+  m_LocalPosition: {x: -4.1, y: -32.6, z: 165.2}
   m_LocalScale: {x: 100, y: 0.1, z: 45}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2344,6 +2348,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 522317322902179336, guid: 8d3d3d4089f864b45a1bdd642fd5be1e, type: 3}
+      propertyPath: speed
+      value: 75
+      objectReference: {fileID: 0}
     - target: {fileID: 3469227022547258417, guid: 8d3d3d4089f864b45a1bdd642fd5be1e, type: 3}
       propertyPath: m_Name
       value: Ball
